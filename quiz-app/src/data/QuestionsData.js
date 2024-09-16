@@ -8,7 +8,7 @@ const QuestionsData = [
         answer:"A"
     },
     {
-        questions: "ข้อใดถูกต้องเกี่ยวกับ REact",
+        questions: "ข้อใดถูกต้องเกี่ยวกับ React",
         A:"ทำงานฝั่ง Server",
         B:"ใช้จัดการฐานข้อมูล",
         C:"เป็น JavaScript Library",
